@@ -14,7 +14,7 @@ justify-content: center;
 export const Content = styled.div`
 
     background-color: #FFFFFF;
-    width: 50%;
+    max-width: 40%;
     
 `
 
@@ -24,6 +24,7 @@ export const Row = styled.div`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    
     
 `
 
